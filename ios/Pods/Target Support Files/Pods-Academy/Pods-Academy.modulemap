@@ -1,0 +1,6 @@
+module Pods_Academy {
+  umbrella header "Pods-Academy-umbrella.h"
+
+  export *
+  module * { export * }
+}
